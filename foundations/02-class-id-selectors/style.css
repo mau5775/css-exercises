@@ -1,0 +1,20 @@
+.bgcolor {
+    background-color: rgb(255, 179, 190);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+
+#elm2 {
+    color: blue;
+    font-size: 36px;
+}
+
+.fsize {
+   font-size: 24px; 
+}
+
+#elm4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
